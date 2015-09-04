@@ -42,18 +42,18 @@ locale:        en_us
 baseurl: ""
 
 # URL of site, include http://, do not include a trailing slash
-url: "http://milanaryal.com"
+url: "http://yuepengguo.github.io"
 
 # Site settings
-name:             Milan Aryal
-description:      "Livin' on the edge of web standards."
+name:             YUEPENG
+description:      "analysis"
 icon:             "/assets/img/m-icon-blue-on-white.png"
 featured_image:   "/assets/img/home-bg.jpg"
 theme_color:      "#2196F3"
 author:
-  name:           Milan Aryal
-  email:          "considermilan@gmail.com"
-  uri:            "https://twitter.com/MilanAryal"
+  name:           YUEPENG GUO
+  email:          "guoyp03@gmail.com"
+  uri:            "https://twitter.com/gaodena"
   twitter:        MilanAryal
   google_plus:    MilanAryal
   github:         MilanAryal
