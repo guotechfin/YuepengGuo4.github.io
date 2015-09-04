@@ -1,7 +1,7 @@
 ---
 author: "YUEPENG"
 title: "data scientist basic"
-date: 2015-09-03T17:52:01+05:45
+date: 2015-09-04T17:52:01+05:45
 comments: false
 ---
 
