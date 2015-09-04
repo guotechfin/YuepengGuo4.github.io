@@ -2,6 +2,7 @@
 author: "YUEPENG"
 title: "Why I write this blog"
 date: 2015-09-03T17:52:01+05:45
+comments: false
 ---
 
 ### why
