@@ -45,8 +45,8 @@ baseurl: ""
 url: "http://yuepengguo.github.io"
 
 # Site settings
-name:             Data Thoughts
-description:      "philosophy | data processing | programming"
+name:             Thoughts
+description:      "Data based philosophy"
 icon:             "/assets/img/m-icon-blue-on-white.png"
 featured_image:   "/assets/img/home-bg1.jpg"
 theme_color:      "#2196F3"
