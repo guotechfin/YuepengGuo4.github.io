@@ -7,7 +7,7 @@ comments: false
 
 ### Data Scientist Basic
 
-> I consider data the be the record of things that happen(ed) and science as the formalisation & generalisation of our understanding of those things. ‘Data scientist’ is thus a useful shorthand term for someone who specialises in learning from data, communicating insights and taking/recommending reasoned actions accordingly.
+> I consider data are the record of things that happen(ed) and science as the formalisation & generalisation of our understanding of those things. ‘Data scientist’ is thus a useful shorthand term for someone who specialises in learning from data, communicating insights and taking/recommending reasoned actions accordingly.
 
 > Never forget that it’s that final step that matters most – **allowing decision makers to take reasoned actions according to your well-communicated insights**.
 
