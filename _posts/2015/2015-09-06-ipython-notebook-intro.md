@@ -8,6 +8,12 @@ comments: false
 
 {% highlight python %}
 %pylab inline
-    def return_on_investment(principal, interest_rate, number_of_years):
-    	return principal * e ** (interest_rate * number_of_years)
 {% endhighlight %}
+
+    
+* shift+enter to execute
+* ctrl+enter to repeat
+* alt+enter to execute and insert a new cell immediately below it
+
+    
+you can check manual for more command mode.
