@@ -7,12 +7,15 @@ comments: false
 
 ### Data Scientist Basic
 
-作为一个data scientist, 需要了解的东西很多。
+> I consider data the be the record of things that happen(ed) and science as the formalisation & generalisation of our understanding of those things. ‘Data scientist’ is thus a useful shorthand term for someone who specialises in learning from data, communicating insights and taking/recommending reasoned actions accordingly.
+
+> Never forget that it’s that final step that matters most – **allowing decision makers to take reasoned actions according to your well-communicated insights**.
 
 * Sound Statistical Understanding
 	* Fundamental Statistics for the Behavioral Sciences
 	* Identifying and Overcoming Common Data Mining Mistakes
 	* Common Errors in Statistics
+	* Bayesian, frequentist, whatever – make sure you have a really solid grasp of the fundamentals
 
 
 * Data pre-processing
@@ -26,6 +29,15 @@ comments: false
 * Time Series Forecasting
 	* Forecasting :  Principles and Practice 
 	* Time Series analysis and its application with R examples
+
+* Communication
+
+	* Get yourself blogging, 
+	* Answering questions on Stack Overflow, 
+	* Presenting at meetups and conferences, 
+	* Consulting in industry etc. 
+
+* Distinguish yourself from the herd.
 
 
 
