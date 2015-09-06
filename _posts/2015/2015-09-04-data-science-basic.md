@@ -31,7 +31,6 @@ comments: false
 	* Time Series analysis and its application with R examples
 
 * Communication
-
 	* Get yourself blogging, 
 	* Answering questions on Stack Overflow, 
 	* Presenting at meetups and conferences, 
