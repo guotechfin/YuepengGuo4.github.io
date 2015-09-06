@@ -39,6 +39,12 @@ comments: false
 * Distinguish yourself from the herd.
 
 
+### Roadmap
+
+![Roadmap from web]({{ site.url }}/assets/img/RoadToDataScientist1.png)
+
+
+
 
 
 
