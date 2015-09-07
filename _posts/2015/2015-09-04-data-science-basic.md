@@ -3,7 +3,7 @@ author: "YUEPENG"
 title: "data scientist basic"
 date: 2015-09-04T17:52:01+05:45
 comments: false
-tags: [thinking,philosophy]
+tags: [data,sci]
 ---
 
 ### Data Scientist Basic
