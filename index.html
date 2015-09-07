@@ -13,6 +13,9 @@ layout: index
       <h2 class="post-title" itemprop="name headline">{{ post.title | markdownify | strip_html | strip_newlines }}</h2>
       {% if post.subtitle %}
         <p class="post-subtitle" itemprop="description">{{ post.subtitle | markdownify | strip_html | strip_newlines | truncate: 160 }}</p>
+        {% for tag in post.tags %}
+          <a class="tag" href="/blog/tag/{{ tag }}/">{{ tag }}</a>
+        {% endfor %}
       {% elsif post.excerpt and post.excerpt != blank %}
         <p class="post-subtitle" itemprop="description">{{ post.excerpt | markdownify | strip_html | strip_newlines | truncate: 160 }}</p>
       {% endif %}
