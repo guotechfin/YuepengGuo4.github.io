@@ -17,7 +17,7 @@ encoding: "utf-8"
 # Plugins
 gems:
 #  - jekyll-feed
-#  - jekyll-mentions
+  - jekyll-mentions
   - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
@@ -36,7 +36,7 @@ permalink:     /:year/:title/
 relative_permalinks: true
 paginate_path: /page:num/
 paginate:      5
-timezone:      Asia/Kathmandu
+timezone:      Asia/Shanghai
 locale:        en_us
 
 # Serving, does not include hostname
