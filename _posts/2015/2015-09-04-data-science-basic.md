@@ -1,6 +1,7 @@
 ---
 author: "YUEPENG"
 title: "data scientist basic"
+subtitle: "the roadmap to become a data scientist, I will follow this guidance."
 date: 2015-09-04T17:52:01+05:45
 comments: false
 tags: [data,sci]
