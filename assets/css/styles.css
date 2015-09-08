@@ -3,7 +3,7 @@
  * Copyright 2015 Milan Aryal
  * Licensed under MIT (https://github.com/MilanAryal/milanaryal.github.io/blob/master/LICENSE)
  *
- * Date: 2015-09-08T08:44:21+05:45
+ * Date: 2015-09-08T09:30:27+05:45
  */
 
 /*!
@@ -6757,7 +6757,7 @@ a img:focus {
   cursor:         zoom-in;
 }
 hr.small {
-  max-width: 100px;
+  max-width: 250px;
   margin: 15px auto;
   border-color: white;
   border-width: 4px;
