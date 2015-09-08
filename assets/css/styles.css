@@ -3,7 +3,7 @@
  * Copyright 2015 Milan Aryal
  * Licensed under MIT (https://github.com/MilanAryal/milanaryal.github.io/blob/master/LICENSE)
  *
- * Date: 2015-09-08T08:29:05+05:45
+ * Date: 2015-09-08T08:44:21+05:45
  */
 
 /*!
@@ -7844,6 +7844,28 @@ kbd {
 .error-page-message-small a:active {
   color: rgba(0, 0, 0, .6);
   text-decoration: underline;
+}
+.tag {
+  display: inline-block;
+  padding-right: 4px;
+  padding-left: 4px;
+  color: #fff;
+  background: #6bab6a;
+  border-radius: 6px;
+}
+a.tag {
+  color: #fff;
+  text-decoration: none;
+}
+a.tag:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+a.tag:active {
+  color: #fff;
+}
+a.tag:visited {
+  color: #fff;
 }
 .anchorjs-link {
   color: inherit !important;
