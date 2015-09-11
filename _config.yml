@@ -17,7 +17,7 @@ encoding: "utf-8"
 # Plugins
 gems:
 #  - jekyll-feed
-  - jekyll-mentions
+# - jekyll-mentions
   - jekyll-redirect-from
   - jekyll-sitemap
   - jemoji
@@ -52,7 +52,7 @@ icon:             "/assets/img/m-icon-blue-on-white.png"
 featured_image:   "/assets/img/home-bg1.jpg"
 theme_color:      "#2196F3"
 author:
-  name:           YUEPENG GUO
+  name:           简单复杂哥
   email:          "guoyp03@gmail.com"
   uri:            "https://twitter.com/gaodena"
   twitter:        MilanAryal
