@@ -1,7 +1,7 @@
 ---
 author: "YUEPENG"
 title: "Why I write this blog"
-subtitle: "To guide my steps, to focus, and to concentrate"
+subtitle: "Reflection On The Past Brings Hope For The Future. "
 date: 2015-09-03T17:52:01+05:45
 comments: false
 tags: [thinking,philosophy]
