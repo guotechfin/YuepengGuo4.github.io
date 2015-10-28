@@ -15,12 +15,32 @@ When the execute bit for the group is set to "s", the set group ID bit is set an
 
 The following command:
 
-```bash
+```
 chmod +s tfile
 ```
 set the user ID bit on the file tfile
 
- 
+   
+```
+chmod g+s tfile
+```
+set the group ID bit on the file tfile
+
+If the other users execute bit is not set with permission to execute, then the user ID bit set would be meaningless since only that same group could run the program anyhow.
+
+### Directory Group Permission
+
+If the setgid bit on a directory entry is set, files in that directory will have the group ownership as the directory.
+   
+---
+For example, the administrator can create a group called web and add users bob and alice to the group web.
+The directory /var/www/html can be created with the set GID bit set and bob and alice although in different primary groups can work in the directory and have full access to all files in that directory, but still not be able to access files in each other's primary group.
+```
+chmod g+s /var/www/html
+```
+
+
+
 
 
 
