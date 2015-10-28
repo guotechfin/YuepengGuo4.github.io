@@ -13,7 +13,14 @@ The file permissions bits include an execute permission bit for file owner, grou
 
 When the execute bit for the group is set to "s", the set group ID bit is set and the user running the program is given access based on access permission for the group the file belongs to.
 
+The following command:
 
+```bash
+chmod +s tfile
+```
+set the user ID bit on the file tfile
+
+ 
 
 
 
