@@ -39,6 +39,15 @@ The directory /var/www/html can be created with the set GID bit set and bob and 
 chmod g+s /var/www/html
 ```
 
+### umask
+Typically, users were primary members in a staff group, and then secondary members in auxillary groups, like 'web' in our case.
+Their umask is 022, so new files would be created with 644 and 755 for directories.
+
+
+{% highlight bash %}  
+	chmod g+s /var/www/html
+	chgrp -R web /var/www/html
+{% endhighlight %}
 
 
 
