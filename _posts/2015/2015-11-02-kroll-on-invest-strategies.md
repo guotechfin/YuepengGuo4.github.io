@@ -2,7 +2,7 @@
 author: "YUEPENG"
 title: "Kroll on investment strategies"
 subtitle: ""
-date: 2016-07-02T09:52:01+05:45
+date: 2015-11-02T09:52:01+05:45
 comments: false
 tags: [data,sci]
 ---
