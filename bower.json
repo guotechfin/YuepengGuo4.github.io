@@ -3,7 +3,7 @@
   "main": "index.html",
   "homepage": "http://milanaryal.com",
   "authors": [
-    "Milan Aryal <considermilan@gmail.com>"
+    "Milan Aryal"
   ],
   "description": "Jekyll build for milanaryal.com",
   "license": "MIT",
